@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/noritexapp/static/css/main.33f24793.css",
+    "main.js": "/noritexapp/static/js/main.b4e40476.js",
+    "static/js/787.0d7342eb.chunk.js": "/noritexapp/static/js/787.0d7342eb.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/noritexapp/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/azul2.jpg": "/noritexapp/static/media/azul2.f3ef987fc70a37f37cf4.jpg",
+    "static/media/fontawesome-webfont.eot": "/noritexapp/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/noritexapp/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/noritexapp/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/noritexapp/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/noritexapp/index.html",
+    "main.33f24793.css.map": "/noritexapp/static/css/main.33f24793.css.map",
+    "main.b4e40476.js.map": "/noritexapp/static/js/main.b4e40476.js.map",
+    "787.0d7342eb.chunk.js.map": "/noritexapp/static/js/787.0d7342eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33f24793.css",
+    "static/js/main.b4e40476.js"
+  ]
+}
