@@ -1,0 +1,28 @@
+/* Navbar */
+.navbar-nav a{
+  font-size: 18px;
+}
+.container1{
+  
+  bottom: 0px;
+  right: 0px;
+  padding: 50px 200px 20px;
+  border-radius: 5px 0px 0px;
+  transition: all 200ms linear 1s;
+  top: auto;
+}
+
+.container{
+  min-height: 163px;
+  bottom: 0px;
+  right: 0px;
+  padding: 20px 20px 30px;
+  border-radius: 5px 0px 0px;
+  background: rgb(80 106 151 / 53%);
+  transition: all 200ms linear 0s;
+  top: auto;
+}
+
+.cart-title{
+  text-align: center;
+}
