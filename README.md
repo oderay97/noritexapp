@@ -1,7 +1,7 @@
-# Getting Started with Create React App
+# Resolving test Noritex
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project resolving test noritex
+https://cdn.pixabay.com/photo/2014/08/11/21/39/wall-416060_960_720.jpg
 ## Available Scripts
 
 In the project directory, you can run:
